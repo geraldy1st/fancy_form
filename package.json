@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://geraldy1st.github.io/home_page_parallax",
+  "homepage": "https://geraldy1st.github.io/fancy_form",
   "scripts": {
     "sass": "node-sass -w scss/ -o css",
     "deploy": "gh-pages -d ../fancyForm"
