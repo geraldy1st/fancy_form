@@ -1,0 +1,18 @@
+{
+  "name": "fancy_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://geraldy1st.github.io/home_page_parallax",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css",
+    "deploy": "gh-pages -d ../fancyForm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "node-sass": "^4.11.0"
+  }
+}
